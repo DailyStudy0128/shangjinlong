@@ -1,5 +1,7 @@
 package sjl;
-
+/*
+冒泡排序优化算法
+*/
 public class MaoPao {
     public int i;
 //    public String n;
